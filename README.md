@@ -8,9 +8,9 @@
 ### JSZip Library Loader
 ```javascript
 var script = document.createElement('script');
-script.src = "[https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js](https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js)";
+script.src = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js";
 document.head.appendChild(script);
-console.log("✅ JSZip Library Loaded");
+console.log("✅ JSZip Library Loaded!"); ;
 ```
 ### Main Script
 ```javascript
